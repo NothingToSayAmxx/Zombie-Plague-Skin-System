@@ -4,7 +4,7 @@ Adds the model system for ZP 4.3 to your server
 
 ## Requirements
 ```c
-AmxModX 1.9.0 + ReAPI 5.21.0.252 + ReGameDLL 5.21.0.546
+AmxModX 1.9.0 + ReAPI >= 5.21.0.252 + ReGameDLL >= 5.21.0.546
 ```
 
 ## Installation
