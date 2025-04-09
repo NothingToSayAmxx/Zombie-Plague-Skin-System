@@ -1,0 +1,5 @@
+[ru]
+ZpModels__Prefix = ^1[^4Модель^1]
+ZpModels__Print_Model_Not_Found = У вас нету ^4активной модели^1.
+ZpModels__Print_ModelLifeTime = навсегда
+ZpModels__Print_Model_Info = Дата окончания модели: ^4%s^1.
